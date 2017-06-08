@@ -5,9 +5,9 @@ body {
 .header {
   background-image:url('../images/the-flatiron-building.png');
   height:297px;
-  background-size:100%
+  background-size:100%;
   background-repeat: no-repeat;
-  
+
 }
 
 .locale {
