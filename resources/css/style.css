@@ -34,6 +34,7 @@ p {
 }
 ul {
   list-style:none;
+  padding-bottom:10px;
 }
 .locale {
     background-image:url('../images/the-flatiron-building.png');
