@@ -4,13 +4,13 @@ body {
 }
 .header {
   background-image:url('../images/the-flatiron-building.png');
-  height:297px;
   background-size:100%;
   background-repeat: no-repeat;
 }
 
 .header ul li{
   font-size:18px;
+  line-height:2em;
 }
 
 a {
